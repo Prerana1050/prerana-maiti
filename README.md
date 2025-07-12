@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Prerana 👋</h2>
 
 <p align="center">
-  Final Year CSE Student | Full Stack Developer (MERN) | Java & DSA Enthusiast | GATE 2026 Aspirant
+  Final Year CSE Student | Full Stack Developer (MERN) | Java & DSA Enthusiast
 </p>
 
 ---
@@ -48,18 +48,5 @@
 
 ---
 
-### 🚀 Projects Highlights
-- 💼 **Portfolio Website** – Built with React, Tailwind & Node.js.
-- 📚 **Java DSA Repository** – Interview prep & problem-solving journey.
-- 🛒 **E-Commerce Backend API** – RESTful API using Express & MongoDB.
-
----
-
-### 🎯 Current Focus
-- GATE 2026 Preparation
-- Web Dev Projects using MERN stack
-- Competitive Programming and Java DSA
-
----
 
 > _“Consistency is the key to mastery.”_
