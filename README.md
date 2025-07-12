@@ -33,7 +33,8 @@
 
 ---
 
-### 📈 GitHub Stats:
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prerana-maiti&show_icons=true&theme=default" alt="Prerana's GitHub stats" />
 </p>
@@ -46,7 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prerana-maiti&theme=default" alt="GitHub Streak" />
 </p>
 
----
 
 
 > _“Consistency is the key to mastery.”_
