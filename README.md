@@ -8,7 +8,13 @@
 
 ### 🔗 Connect with me:
 <p>
-  <a href="https://hashnode.com/@yourhandle" target="_blank"><img alt="Hashnode" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" width="30px"/></a>
+ ### 🔗 Connect with me:
+<p align="left">
+  <a href="preranamaiti@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://www.linkedin.com/in/PreranaMaiti/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  
+</p>
+
   <!-- Add other links like LinkedIn, Gmail, etc. -->
 </p>
 
@@ -29,22 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prerana-maiti&show_icons=true&theme=default" alt="Prerana's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerana-maiti&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prerana-maiti&theme=default" alt="GitHub Streak" />
 </p>
 
 
