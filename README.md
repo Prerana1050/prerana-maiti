@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Prerana 👋</h2>
 
 <p align="center">
-  Final Year CSE Student | Full Stack Developer (MERN) | Java & DSA Enthusiast
+  Final Year CSE Student | Full Stack Developer (MERN)
 </p>
 
 ---
