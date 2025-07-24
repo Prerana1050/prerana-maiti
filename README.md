@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student with a strong grip on core subjects  
+- 🎓 Computer Science student
 
 ---
 
