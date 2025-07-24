@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prerana</h1>
 <h3 align="center">CS Student | Full-Stack Developer </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;GATE+2026+Focused;Tech+Blogger+on+Quora" alt="Typing SVG" />
-</p>
 
 ---
 
