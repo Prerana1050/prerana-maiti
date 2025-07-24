@@ -8,7 +8,6 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student with a strong grip on core subjects  
-- 🌱 Exploring Backend & DevOps in free time
 
 ---
 
