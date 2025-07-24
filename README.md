@@ -31,13 +31,6 @@
 
 ---
 
-## 🌐 Featured Links
-
-- 🔗 [**GitHub Projects**](https://github.com/Prerana1050)
-- 🌍 [**Live Project (Wanderlust)**](https://your-deployment-link.com) <!-- Replace this with real link -->
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -50,13 +43,10 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/prerana-maiti-73b242225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  
-  <a href="preranamaiti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
-  </a>
+  <p>Gmail:preranamaiti@gmail.com</p>
 </p>
 
 ---
