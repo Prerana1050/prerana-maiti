@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student
+- 🎓 Final Year Computer Science student passionate about technology 
 
 ---
 
@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="React" width="40" height="40"/>
 </p>
 
 ---
@@ -42,7 +43,7 @@
   <a href="https://www.linkedin.com/in/prerana-maiti-73b242225/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <p>Gmail:preranamaiti@gmail.com</p>
+  <p><b>Gmail:preranamaiti@gmail.com</b></p>
 </p>
 
 ---
