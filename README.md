@@ -9,7 +9,7 @@
 
 - 🎓 Final Year Computer Science student
 - a passionate and detail-oriented full-stack web developer.
-- I enjoy building web applications using **Java, Node.js, MongoDB, MySQL, React, Express JS**. 
+- I enjoy building web applications using **JavaScript, Node.js, MongoDB, MySQL, React, Express JS**. 
 - I regularly work on personal projects to sharpen my development skills and create clean, user-friendly interfaces and robust backends.
 
 ---
